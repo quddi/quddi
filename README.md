@@ -4,7 +4,19 @@
 
 ## Hi there!👋
 
-I am Andrushko Nikita, Unity3D developer.
+I am Andrushko Nikita.
+
+⚽🏀🏐 Sport enjoyer
+
+💙💛 From Ukraine
+
+🎮 Unity3D developer
+
+🎓 Dnipro National University student
+
+🥇 Olympiads winner (math/physics/programming)
+
+🕹️ Gamer
 
 ## Skills
 
@@ -18,7 +30,7 @@ I am Andrushko Nikita, Unity3D developer.
 ![Google Play Sevices](https://img.shields.io/badge/-Google%20Play%20Sevices-7c08a6?style=for-the-badge&logo=googleplay)
 ![XML](https://img.shields.io/badge/-XML-red?style=for-the-badge&logo=xml)
 ![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=solid)
-![EF Core](https://img.shields.io/badge/-'EF Core'-yellow?style=for-the-badge&logo=linq)
+![EF Core](https://img.shields.io/badge/-'EF_Core'-yellow?style=for-the-badge&logo=linq)
 
 ## Contact me
 
