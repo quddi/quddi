@@ -21,7 +21,7 @@ I am Andrushko Nikita, Unity3D developer.
 ## Contact me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-yellow?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nikita-andrushko-37b991226/)
-[![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=email)](mailto:alemkhf12@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=gmail)](mailto:alemkhf12@gmail.com)
 [![Telegram](https://img.shields.io/badge/-Telegram-yellow?style=for-the-badge&logo=telegram)](https://t.me/qudditech)
 [![Instagram](https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/n.i.k_andrushko/)
 [![Steam](https://img.shields.io/badge/-Steam-yellow?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/qudddi/)
