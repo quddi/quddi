@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/quddi/quddi/blob/main/assets/logo.gif"  width="1000" height="500"/>
+	<img src="https://github.com/quddi/quddi/blob/main/assets/logo.gif"  width="800" height="400"/>
 </p>
 
 ## Hi there!👋
