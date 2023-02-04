@@ -8,4 +8,4 @@ I am Andrushko Nikita, Unity3D developer.
 
 ## Skills
 
-![C#](https://img.shields.io/badge/-'C#'-7c08a6)
+![C#](https://img.shields.io/badge/-C%23-7c08a6)
