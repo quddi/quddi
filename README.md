@@ -8,12 +8,12 @@ I am Andrushko Nikita, Unity3D developer.
 
 ## Skills
 
-![C#](https://img.shields.io/badge/-C%23-7c08a6)
-![OOP](https://img.shields.io/badge/-OOP-red)
-![SOLID](https://img.shields.io/badge/-SOLID-orange)
-![LINQ](https://img.shields.io/badge/-LINQ-yellow)
-![Unity](https://img.shields.io/badge/-Unity-green)
-![DOTween](https://img.shields.io/badge/-DOTween-03eeff)
-![Text Mesh Pro](https://img.shields.io/badge/-Text%20Mesh%20Pro-blue)
-![Google Play Sevices](https://img.shields.io/badge/-Google%20Play%20Sevices-7c08a6)
-![XML](https://img.shields.io/badge/-XML-red)
+![C#](https://img.shields.io/badge/-C%23-7c08a6?style=for-the-badge&logo=appveyor)
+![OOP](https://img.shields.io/badge/-OOP-red?style=for-the-badge&logo=appveyor)
+![SOLID](https://img.shields.io/badge/-SOLID-orange?style=for-the-badge&logo=appveyor)
+![LINQ](https://img.shields.io/badge/-LINQ-yellow?style=for-the-badge&logo=appveyor)
+![Unity](https://img.shields.io/badge/-Unity-green?style=for-the-badge&logo=appveyor)
+![DOTween](https://img.shields.io/badge/-DOTween-03eeff?style=for-the-badge&logo=appveyor)
+![Text Mesh Pro](https://img.shields.io/badge/-Text%20Mesh%20Pro-blue?style=for-the-badge&logo=appveyor)
+![Google Play Sevices](https://img.shields.io/badge/-Google%20Play%20Sevices-7c08a6?style=for-the-badge&logo=appveyor)
+![XML](https://img.shields.io/badge/-XML-red?style=for-the-badge&logo=appveyor)
