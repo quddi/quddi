@@ -30,7 +30,7 @@ I am Andrushko Nikita.
 ![Google Play Sevices](https://img.shields.io/badge/-Google%20Play%20Sevices-7c08a6?style=for-the-badge&logo=googleplay)
 ![XML](https://img.shields.io/badge/-XML-red?style=for-the-badge&logo=xml)
 ![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=solid)
-![EF Core](https://img.shields.io/badge/-'EF_Core'-yellow?style=for-the-badge&logo=linq)
+![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-yellow?style=for-the-badge&logo=linq)
 
 ## Contact me
 
