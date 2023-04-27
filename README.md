@@ -35,7 +35,7 @@ I am Andrushko Nikita.
 ![Addressables](https://img.shields.io/badge/-Addressables-03eeff?style=for-the-badge&logo=Addressables)
 ![Odin](https://img.shields.io/badge/-Odin-blue?style=for-the-badge&logo=odin)
 ![UniTask](https://img.shields.io/badge/-UniTask-7c08a6?style=for-the-badge&logo=unitask)
-![VContainer](https://img.shields.io/badge/-XML-red?style=for-the-badge&logo=vcontainer)
+![VContainer](https://img.shields.io/badge/-VContainer-red?style=for-the-badge&logo=vcontainer)
 
 ## Contact me
 
