@@ -46,5 +46,6 @@ I am Andrushko Nikita.
 [![Instagram](https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/n.i.k_andrushko/)
 [![Steam](https://img.shields.io/badge/-Steam-yellow?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/qudddi/)
 
+## Statistics
 
 [![Nikita Andrushko profile views](https://u8views.com/api/v1/github/profiles/59485777/views/day-week-month-total-count.svg)](https://u8views.com/github/quddi)
