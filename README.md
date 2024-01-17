@@ -27,7 +27,8 @@ I am Andrushko Nikita.
 ![Unity](https://img.shields.io/badge/-Unity-green?style=for-the-badge&logo=unity)
 ![DOTween](https://img.shields.io/badge/-DOTween-03eeff?style=for-the-badge&logo=dotween)
 ![Text Mesh Pro](https://img.shields.io/badge/-Text%20Mesh%20Pro-blue?style=for-the-badge&logo=textmeshpro)
-![Google Play Sevices](https://img.shields.io/badge/-Google%20Play%20Sevices-7c08a6?style=for-the-badge&logo=googleplay)
+![Google Play Sevices]
+(https://img.shields.io/badge/-Google%20Play%20Sevices-7c08a6?style=for-the-badge&logo=googleplay)
 ![XML](https://img.shields.io/badge/-XML-red?style=for-the-badge&logo=xml)
 ![SQL](https://img.shields.io/badge/-SQL-orange?style=for-the-badge&logo=solid)
 ![Entity Framework Core](https://img.shields.io/badge/-Entity_Framework_Core-yellow?style=for-the-badge&logo=linq)
@@ -44,3 +45,6 @@ I am Andrushko Nikita.
 [![Telegram](https://img.shields.io/badge/-Telegram-yellow?style=for-the-badge&logo=telegram)](https://t.me/qudditech)
 [![Instagram](https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/n.i.k_andrushko/)
 [![Steam](https://img.shields.io/badge/-Steam-yellow?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/qudddi/)
+
+
+[![Nikita Andrushko profile views](https://u8views.com/api/v1/github/profiles/59485777/views/day-week-month-total-count.svg)](https://u8views.com/github/quddi)
